@@ -1,0 +1,13 @@
+A gripe é uma infeção respiratória causada pelo vírus influenza.
+
+Sintomas comuns incluem:
+- febre
+- tosse
+- dor muscular
+- fadiga
+- dor de garganta
+
+Tratamento:
+- descanso
+- hidratação
+- medicação para febre
